@@ -4,6 +4,7 @@ mkdir "Project 1"
 cd "Project 1"
 nano my_text_file.txt
 write this stuff here in the .txt
+cd ..
 git status
 git add --all
 git commit -m "making toy text file for proj 1"
