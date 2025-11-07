@@ -1,2 +1,2 @@
 # Computational-Social-Science-Projects
-Creating this repo for Project 1
+Creating this repo for independent projects for CSS
